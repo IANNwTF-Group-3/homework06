@@ -1,4 +1,4 @@
-# homework06
+# Homework06
 
 Our original model had no problems with the dataset and did not overfit. We could observe this by looking at the test accuracy and the respective losses.
 
@@ -21,4 +21,4 @@ In the end we used:
 
    To avoid too large activations, we use a batch normalization layer in the end. This normalizes the output, in case there are too big or too small values.
 
-Unfortunately, Google Colab limits the use of GPU Accelerators so we could not test more permutation of the methods... We worked through our Google Accounts and are waiting to get our GPUs back...
+Unfortunately, Google Colab limits the use of GPU Accelerators so we could not test more permutation of the methods. We worked through our Google Accounts and are waiting to get our GPUs back...
